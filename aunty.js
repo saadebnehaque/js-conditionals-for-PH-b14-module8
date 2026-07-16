@@ -12,7 +12,7 @@
 */
 
 const a = 10;
-const b = 7;
+const b = 9;
 
 // console.log(a > b);
 // console.log(a < b);
