@@ -12,7 +12,7 @@
 */
 
 const a = 10;
-const b = 9;
+const b = 5;
 
 // console.log(a > b);
 // console.log(a < b);
@@ -20,3 +20,5 @@ const b = 9;
 // console.log(a >= b);
 // console.log(a <= b);
 console.log(a !== b);
+console.log(20 !== '20');
+console.log(20 === '20');
