@@ -1,4 +1,4 @@
-const totalAmount = 5000;
+const totalAmount = 4999;
 
 if (totalAmount > 5000) {
     const discount = 30;
@@ -10,5 +10,5 @@ else if (totalAmount > 1000) {
     const discount = 10;
     const discountAmount = totalAmount / 100 * discount;
     const payment = totalAmount - discountAmount;
-    console.log('please pay: ', payment);
+    console.log('please pay: ', parseInt(payment));
 }

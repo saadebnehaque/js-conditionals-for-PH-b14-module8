@@ -26,10 +26,10 @@ else {
 const x = 200;
 const y = 200;
 
-if(x!== y){
+if (x !== y) {
     const z = x + y;
     console.log('value of z: ', z);
 }
-else{
+else {
     console.log('they are equal equal mukul mukul')
 }
